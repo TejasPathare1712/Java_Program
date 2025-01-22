@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Annotations","c":"MyAnnotation","l":"date()"},{"p":"Annotations","c":"MyAnnotation","l":"name()"},{"p":"Annotations","c":"MyAnnotation","l":"place()"}];updateSearchResults();
